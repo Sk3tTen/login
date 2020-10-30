@@ -1,0 +1,15 @@
+D:\Проекты\WpfApp3\WpfApp3\obj\Debug\WpfApp3.csprojAssemblyReference.cache
+D:\Проекты\WpfApp3\WpfApp3\obj\Debug\MainWindow.g.cs
+D:\Проекты\WpfApp3\WpfApp3\obj\Debug\App.g.cs
+D:\Проекты\WpfApp3\WpfApp3\obj\Debug\WpfApp3_MarkupCompile.cache
+D:\Проекты\WpfApp3\WpfApp3\obj\Debug\WpfApp3_MarkupCompile.lref
+D:\Проекты\WpfApp3\WpfApp3\bin\Debug\WpfApp3.exe.config
+D:\Проекты\WpfApp3\WpfApp3\bin\Debug\WpfApp3.exe
+D:\Проекты\WpfApp3\WpfApp3\bin\Debug\WpfApp3.pdb
+D:\Проекты\WpfApp3\WpfApp3\obj\Debug\MainWindow.baml
+D:\Проекты\WpfApp3\WpfApp3\obj\Debug\WpfApp3.g.resources
+D:\Проекты\WpfApp3\WpfApp3\obj\Debug\WpfApp3.Properties.Resources.resources
+D:\Проекты\WpfApp3\WpfApp3\obj\Debug\WpfApp3.csproj.GenerateResource.cache
+D:\Проекты\WpfApp3\WpfApp3\obj\Debug\WpfApp3.csproj.CoreCompileInputs.cache
+D:\Проекты\WpfApp3\WpfApp3\obj\Debug\WpfApp3.exe
+D:\Проекты\WpfApp3\WpfApp3\obj\Debug\WpfApp3.pdb
